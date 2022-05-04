@@ -1,9 +1,9 @@
 # FA-Faithful32
--todo models/brows
-cow
-pillager/evoker/etc. 
-vex
+-todo models/brows\
+cow\
+pillager/evoker/etc. \
+vex\
 villagers
 
--texture
+-texture\
 upscale spider fangs
