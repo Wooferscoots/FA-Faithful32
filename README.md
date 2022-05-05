@@ -34,6 +34,3 @@ witch - jogurciQ, Fabri
 pillager/evoker/etc. \
 vex\
 villagers
-
--texture\
-upscale spider fangs
