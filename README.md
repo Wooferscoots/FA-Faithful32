@@ -5,6 +5,7 @@ Add on for Fresh Animations to make faithful 32 compatible.
 TO DO
 
 - pillager/evoker/etc. cem
+- ravager cem
 - vex cem
 
 # Pack Order
