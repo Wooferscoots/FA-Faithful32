@@ -17,7 +17,7 @@ This is how the packs should apear in your resource pack list
 - [Faithful32](https://faithfulpack.net/)
 
 # Credits
-Wooferscoots
+Wooferscoots\
 Псевдопсевдогипопаратиреоз
 
 <https://www.planetminecraft.com/texture-pack/fresh-animations-v1-0/> \
