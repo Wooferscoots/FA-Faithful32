@@ -32,5 +32,4 @@ witch - jogurciQ, Fabri
 
 -todo models/brows\
 pillager/evoker/etc. \
-vex\
-villagers
+vex
