@@ -2,12 +2,6 @@
 
 Add on for Fresh Animations to make faithful 32 compatible.
 
-TO DO
-
-- pillager/evoker/etc. cem
-- ravager cem
-- vex cem
-
 # Pack Order
 Faithful and Fresh Animations must be installed for this pack to function correctly\
 This is how the packs should apear in your resource pack list
